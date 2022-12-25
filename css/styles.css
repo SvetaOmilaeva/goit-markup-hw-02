@@ -23,7 +23,7 @@ body {
 .logo-web {color: var(--accent-color);}
 
 /* убрать маркер списка*/
-.list {
+.link {
     list-style: none;
 }
 a {text-decoration: none;}
