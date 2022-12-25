@@ -23,10 +23,10 @@ body {
 .logo-web {color: var(--accent-color);}
 
 /* убрать маркер списка*/
-.link {
+.list {
     list-style: none;
 }
-a {text-decoration: none;}
+.link {text-decoration: none;}
 
 /* навигация */
 .site-nav .link {
